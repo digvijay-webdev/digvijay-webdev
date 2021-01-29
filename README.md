@@ -1,3 +1,4 @@
+![Coding is Awesome](https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif)
 
 # Hi, guys my name is Digvijay
 ## and i'm full-stack web developer
