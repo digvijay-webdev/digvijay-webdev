@@ -14,7 +14,7 @@ Tech Stack: Vue.js + Express.js + Node.js + MongoDB
 - ⚡ Fun fact: VENM stack sounds better then MEVN stack 
 
 ```
-npx create-friends <some-one-who-code>
+npx create-friends <someone-who-code>
 npm i collaboration
 ```
 
