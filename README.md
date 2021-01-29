@@ -1,4 +1,4 @@
-![Coding is Awesome](https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif)
+![Coding is Awesome](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 # Hi, guys my name is Digvijay
 ## and i'm full-stack web developer
