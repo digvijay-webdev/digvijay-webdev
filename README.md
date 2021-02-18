@@ -7,11 +7,11 @@ Tech Stack: Vue.js + Express.js + Node.js + MongoDB
 
 
 - 🔭 I’m currently working on small apps to brushup my skills ...
-- 🌱 I’m currently learning electron.js ...
+- 🌱 Currently learning electron.js ...
 - 👯 I’m looking to collaborate on some open-source porject ...
 
 - 📫 To contact me: [Click Here](https://pulsatingbirds.com)
-- ⚡ Fun fact: VENM stack sounds better then MEVN stack 
+- ⚡ Fun fact: VENM stack sounds better than MEVN stack 
 
 ```
 npx create-friends <someone-who-code>
